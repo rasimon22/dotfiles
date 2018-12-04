@@ -1,0 +1,6 @@
+[Added Associations]
+image/png=feh.desktop;
+text/plain=libreoffice-writer.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+text/x-python=libreoffice-writer.desktop;
+application/pdf=evince.desktop;
